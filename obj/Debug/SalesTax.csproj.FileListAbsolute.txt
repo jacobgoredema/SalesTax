@@ -1,0 +1,9 @@
+c:\users\jacob.goredema\documents\visual studio 2015\Projects\SalesTax\SalesTax\bin\Debug\SalesTax.exe.config
+c:\users\jacob.goredema\documents\visual studio 2015\Projects\SalesTax\SalesTax\bin\Debug\SalesTax.exe
+c:\users\jacob.goredema\documents\visual studio 2015\Projects\SalesTax\SalesTax\bin\Debug\SalesTax.pdb
+c:\users\jacob.goredema\documents\visual studio 2015\Projects\SalesTax\SalesTax\obj\Debug\SalesTax.csprojResolveAssemblyReference.cache
+c:\users\jacob.goredema\documents\visual studio 2015\Projects\SalesTax\SalesTax\obj\Debug\SalesTax.frmSalesTaxCalculator.resources
+c:\users\jacob.goredema\documents\visual studio 2015\Projects\SalesTax\SalesTax\obj\Debug\SalesTax.Properties.Resources.resources
+c:\users\jacob.goredema\documents\visual studio 2015\Projects\SalesTax\SalesTax\obj\Debug\SalesTax.csproj.GenerateResource.Cache
+c:\users\jacob.goredema\documents\visual studio 2015\Projects\SalesTax\SalesTax\obj\Debug\SalesTax.exe
+c:\users\jacob.goredema\documents\visual studio 2015\Projects\SalesTax\SalesTax\obj\Debug\SalesTax.pdb
